@@ -1,0 +1,201 @@
+AnonID,Query,QueryTime,ItemRank,ClickURL
+214,jeopardy,2006-03-01 19:22:35,1,http://www.sonypictures.com
+214,food network,2006-03-09 16:18:49,3,http://www.foodtv.ca
+457,ebony bridal planner.com,2006-03-14 02:27:40,1,http://www.blackedition.com
+457,www.msn.com,2006-03-20 16:28:40,1,http://www.msn.com
+457,www.ugly people.com,2006-03-24 10:12:17,1,http://www.grimmemennesker.dk
+457,girls,2006-03-24 14:02:28,2,http://www.desktopgirls.com
+457,www.people pics.come,2006-03-24 14:09:48,8,http://www.perfectpeople.net
+457,young girls,2006-03-24 14:19:18,4,http://www.umbc.edu
+1050,family watch dog,2006-03-01 23:15:43,1,http://www.familywatchdog.us
+1050,2907.04a- sexual conduct with minor,2006-03-01 23:25:13,1,http://www.hancocksheriff.org
+1050,2907.04a- sexual conduct with minor meaning,2006-03-01 23:26:23,1,http://lostinlimaohio.blogspot.com
+1050,2907.04a-,2006-03-01 23:28:30,4,http://ohio.esorn.net
+1050,2907.04a-,2006-03-01 23:28:30,1,http://www.hancocksheriff.org
+1050,2907.04a-,2006-03-01 23:28:30,3,http://www.drc.state.oh.us
+1050,unlawful sexual conduct with a minor,2006-03-01 23:34:12,3,http://www.ageofconsent.com
+1050,unlawful sexual conduct with a minor,2006-03-01 23:34:12,5,http://www.waynecountysheriff.com
+1050,paris hilton pregnant,2006-03-04 01:25:14,1,http://au.messages.yahoo.com
+1050,paris hilton pregnant,2006-03-04 01:25:14,2,http://extratv.warnerbros.com
+1050,paris hilton pregnant,2006-03-04 01:25:14,5,http://news.webindia123.com
+1050,paris hilton pregnant picture,2006-03-04 01:26:19,8,http://www.sky.com
+1050,jack osbourne skinny picture,2006-03-04 01:27:27,1,http://www.i-am-bored.com
+1050,jack osbourne skinny picture,2006-03-04 01:27:27,2,http://www.mirror.co.uk
+1050,jack osbourne skinny picture,2006-03-04 01:27:27,3,http://outside.away.com
+1050,jack osbourne skinny picture,2006-03-04 01:27:27,6,http://www.usatoday.com
+1050,top saddest songs,2006-03-04 01:32:36,1,http://www.popculturemadness.com
+1050,top saddest songs,2006-03-04 01:32:36,3,http://www.stylusmagazine.com
+1050,top saddest songs,2006-03-04 01:32:36,4,http://boards.muchmusic.com
+1050,top saddest songs,2006-03-04 01:42:37,12,http://members.tripod.com
+1050,saddest songs,2006-03-04 01:43:37,1,http://www.wanderlist.com
+1050,sad songs,2006-03-04 01:51:12,3,http://www.indianchild.com
+1050,sad songs,2006-03-04 01:51:12,9,http://www.lucidinterval.org
+1050,saddest songs,2006-03-04 01:51:50,2,http://www.wanderlist.com
+1050,free myspace web layouts,2006-03-05 20:04:06,2,http://grmlbrowser.com
+1050,free myspace web layouts,2006-03-05 20:04:06,4,http://www.freeweblayouts.net
+1050,free myspace web layouts,2006-03-05 20:04:06,6,http://www.templatesbox.com
+1050,free myspace web layouts,2006-03-05 20:04:06,7,http://myspace-blog-swicki.eurekster.com
+1050,free myspace web layouts,2006-03-05 20:04:06,9,http://web.ics.purdue.edu
+1050,free myspace web layouts,2006-03-05 20:04:06,8,http://myspace-blog-swicki.eurekster.com
+1050,free myspace web layouts,2006-03-05 20:04:06,8,http://myspace-blog-swicki.eurekster.com
+1050,my space free layouts,2006-03-05 20:14:17,1,http://www.createblog.com
+1050,my space free layouts athletes,2006-03-05 20:14:38,4,http://www.myspace.com
+1050,my space free layouts athletes,2006-03-05 20:14:38,2,http://web.ics.purdue.edu
+1050,myspace free layouts athletes,2006-03-05 20:15:29,1,http://www.freecodesource.com
+1050,myspace free layouts athletes,2006-03-05 20:15:29,6,http://www.freepagegraphics.com
+1050,myspace free layouts athletes,2006-03-05 20:15:29,9,http://www.musicvideocodes.ws
+1050,famous sayings,2006-03-05 20:36:06,1,http://www.scouting.org
+1050,famous sayings,2006-03-05 20:36:06,6,http://quotations.home.worldnet.att.net
+1050,famous sayings,2006-03-05 20:36:06,10,http://print-a-poster.p-rposters.com
+1050,www.mansfield.osu.edu,2006-03-06 12:54:42,1,http://www.mansfield.ohio-state.edu
+1050,alfred college,2006-03-07 15:33:39,1,http://www.alfred.edu
+1050,swang song rap,2006-03-10 19:16:17,5,http://www.stlyrics.com
+1050,swang song rap,2006-03-10 19:16:17,4,http://www.stlyrics.com
+1050,swang song rap,2006-03-10 19:16:17,8,http://www.unsignedbandweb.com
+1050,swang song rap,2006-03-10 19:16:17,7,http://www.worldwideconnected.com
+1050,common,2006-03-10 19:21:51,1,http://www.common-music.com
+1050,will and grace spoilers,2006-03-10 20:40:28,1,http://tvcomedies.about.com
+1050,will and grace spoilers,2006-03-10 20:40:28,3,http://www.spoilerfix.com
+1050,will and grace spoilers,2006-03-10 20:40:28,6,http://www.gawker.com
+1050,will and grace spoilers,2006-03-10 20:40:28,8,http://willandgraceforum.com
+1050,lil rob,2006-03-11 15:07:40,2,http://www.lilrob.com
+1050,kiss fm 965,2006-03-11 19:31:33,2,http://www.987kissfm.com
+1050,kiss fm 965,2006-03-11 19:31:33,1,http://www.965kissfm.com
+1050,kiss fm 965,2006-03-11 19:31:33,3,http://www.sundaynightslowjams.com
+1050,kiss fm 96.5,2006-03-11 19:32:37,1,http://www.kissfm965.com
+1050,kiss fm 96.5,2006-03-11 19:32:37,3,http://www.kisscleveland.com
+1050,the merchant of venice shylock a victim quotes,2006-03-12 10:53:52,3,http://www.english-teaching.co.uk
+1050,the merchant of venice shylock a victim quotes,2006-03-12 10:53:52,1,http://allfreeessays.com
+1050,the merchant of venice quotes,2006-03-12 11:04:11,1,http://www.allgreatquotes.com
+1050,the merchant of venice quotes,2006-03-12 11:04:11,3,http://www.novelguide.com
+1050,the merchant of venice quotes,2006-03-12 11:04:11,2,http://absoluteshakespeare.com
+1050,the merchant of venice quotes,2006-03-12 11:04:11,5,http://www.imdb.com
+1050,the merchant of venice quotes,2006-03-12 11:04:11,6,http://www.william-shakespeare.info
+1050,the merchant of venice quotes,2006-03-12 11:04:11,7,http://www.litquotes.com
+1050,the merchant of venice quotes,2006-03-12 11:04:11,8,http://www.enotes.com
+1050,the merchant of venice quotes,2006-03-12 11:04:11,9,http://www.worldofquotes.com
+1050,jbradley biology,2006-03-12 17:48:15,1,http://www.mansfield.ohio-state.edu
+1050,ncaa march madness bracket,2006-03-13 12:36:05,1,http://www.madduxsports.com
+1050,cinemark ontario ohio,2006-03-16 16:51:57,1,http://www.cinemark.com
+1050,cleveland ohio realtors,2006-03-17 23:17:34,1,http://www.homegain.com
+1050,cleveland ohio realtors,2006-03-17 23:17:34,2,http://www.cleve-oh.com
+1050,remax.com,2006-03-17 23:42:26,1,http://ww1.remax.com
+1050,18408 ponciana ave,2006-03-20 15:04:06,2,http://www.looboo.com
+1050,18408 ponciana ave,2006-03-20 15:04:06,2,http://www.looboo.com
+1050,rich mckay,2006-03-20 15:41:28,1,http://www.atlantafalcons.com
+1050,niagara falls clifton hill,2006-03-20 17:02:39,1,http://www.cliftonhill.com
+1050,niagara falls clifton hill drinking age,2006-03-20 17:05:43,1,http://wikitravel.org
+1050,niagara falls clifton hill drinking age,2006-03-20 17:05:43,7,http://www.trailcanada.com
+1050,canada drinking age 2006,2006-03-20 17:07:32,1,http://www.mytravelguide.com
+1050,canada drinking age 2006,2006-03-20 17:07:32,2,http://usmilitary.about.com
+1050,canada drinking age 2006,2006-03-20 17:07:32,5,http://www.youthrights.org
+1050,canada drinking age 2006,2006-03-20 17:07:32,6,http://www.ccsa.ca
+1050,canada drinking age 2006,2006-03-20 17:07:32,7,http://ca.dir.yahoo.com
+1050,canada drinking age 2006,2006-03-20 17:07:32,4,http://www.redflagdeals.com
+1050,canada drinking age 2006,2006-03-20 17:07:32,3,http://en.wikipedia.org
+1050,www.people.com,2006-03-21 00:18:43,1,http://people.aol.com
+1050,mike mccormack,2006-03-22 11:19:45,3,http://www.irishwriters-online.com
+1050,mike mccormack wimbeldon,2006-03-22 11:20:25,3,http://www.vaxxine.com
+1050,mike mccormack wimbeldon,2006-03-22 11:20:25,1,http://www.a-1video.com
+1050,mike mccormack wimbledon,2006-03-22 11:21:23,7,http://www.baseballlibrary.com
+1050,shes the man movie,2006-03-26 01:00:04,1,http://www.imdb.com
+1050,fairview hospital,2006-03-26 11:49:51,1,http://www.fairviewhospital.org
+1050,cleveland state university,2006-03-26 12:07:56,1,http://www.csuohio.edu
+1050,cleveland state university,2006-03-26 12:07:56,1,http://www.csuohio.edu
+1050,cleveland state university,2006-03-26 12:07:56,2,http://csuvikings.collegesports.com
+1050,channing tatum,2006-03-26 22:24:26,1,http://www.imdb.com
+1050,www.casewesternreserve.edu,2006-04-01 16:17:00,1,http://www.cwru.edu
+1050,park ridge apartments cleveland,2006-04-02 12:13:45,1,http://www.apartmentratings.com
+1050,cleveland apartments,2006-04-02 12:15:07,1,http://www.clevelandrents.com
+1050,cleveland apartments,2006-04-02 12:15:07,3,http://cleveland.forrent.com
+1050,cleveland apartments,2006-04-02 12:15:07,5,http://www.apartmentguide.com
+1050,z107.9 cleveland,2006-04-02 12:41:31,2,http://www.z1079fm.com
+1050,why u wanna ti,2006-04-02 13:04:45,4,http://www.sirius.com
+1050,pimp c love song,2006-04-02 13:15:47,1,http://www.ukmix.org
+1050,black buddafly,2006-04-02 13:18:44,2,http://www6.defjam.com
+1050,black buddafly bad girl,2006-04-02 13:20:28,1,http://www6.defjam.com
+1050,young gunz,2006-04-02 13:23:05,1,http://www.rocafella.com
+1050,shoulder leanin song,2006-04-02 13:27:31,3,http://www.lyricsandsongs.com
+1050,shoulder leanin song,2006-04-02 13:27:31,4,http://www.wordofsouth.com
+1050,cassie steele,2006-04-02 13:48:03,1,http://www.cassiesteele.com
+1050,cassie me and you,2006-04-02 13:48:43,6,http://www.azlyrics.com
+1050,cassie me and you,2006-04-02 13:48:43,8,http://www.lyricsdir.com
+1050,cassie me and you,2006-04-02 13:48:43,9,http://www.lyricsdir.com
+1050,keshia cole dating,2006-04-02 13:52:18,1,http://cakeandice-cream.blogspot.com
+1050,justin timberlake hates k-fed,2006-04-02 13:59:09,1,http://darkhat.blogspot.com
+1050,justin timberlake hates k-fed,2006-04-02 13:59:09,2,http://webnymph.com
+1050,justin timberlake hates k-fed,2006-04-02 13:59:09,3,http://www.celebitchy.com
+1050,justin timberlake hates k-fed,2006-04-02 13:59:09,4,http://www.wesmirch.com
+1050,sean preston spears,2006-04-02 14:06:53,1,http://www.send2press.com
+1050,sean preston federline,2006-04-02 14:09:07,2,http://socialitelife.com
+1050,violet affleck,2006-04-02 14:11:10,2,http://www.addict3d.org
+1050,violet affleck,2006-04-02 14:11:10,5,http://www.gawker.com
+1050,violet affleck picture,2006-04-02 14:12:11,2,http://justjared.blogspot.com
+1050,violet affleck picture,2006-04-02 14:12:11,3,http://justjared.blogspot.com
+1050,violet affleck picture,2006-04-02 14:12:11,4,http://www.waleg.com
+1050,violet affleck picture,2006-04-02 14:12:11,7,http://dailyblabber.ivillage.com
+1050,ohio state athletics,2006-04-06 19:07:18,1,http://ohiostatebuckeyes.cstv.com
+1050,charles pugh,2006-04-06 22:42:58,8,http://www.si.com
+1050,charles pugh west virginia,2006-04-06 22:44:18,1,http://westvirginia.rivals.com
+1050,charles pugh west virginia,2006-04-06 22:44:18,2,http://www.msnsportsnet.com
+1050,charles pugh west virginia,2006-04-06 22:44:18,3,http://www.gospelgazette.com
+1050,charles pugh west virginia,2006-04-06 22:44:18,5,http://www.post-gazette.com
+1050,charles pugh west virginia,2006-04-06 22:44:18,6,http://www.usatoday.com
+1050,charles pugh west virginia,2006-04-06 22:44:18,7,http://www.collegefootballnews.com
+1050,charles pugh west virginia,2006-04-06 22:44:18,9,http://sports.espn.go.com
+1050,charles pugh west virginia,2006-04-06 22:44:18,10,http://www.dailymail.com
+1050,charles pugh west virginia,2006-04-06 22:51:51,12,http://www.nfldraftblitz.com
+1050,charles pugh west virginia,2006-04-06 22:51:51,13,http://scoreboards.aol.com
+1050,charles pugh west virginia,2006-04-06 22:51:51,14,http://cbs.sportsline.com
+1050,charles pugh west virginia,2006-04-06 22:51:51,15,http://www.sportsshooter.com
+1050,charles pugh west virginia,2006-04-06 22:51:51,25,http://www.msnsportsnet.com
+1050,shamrock tattoos,2006-04-06 23:23:18,2,http://tattoo.about.com
+1050,shamrock tattoos,2006-04-06 23:23:18,1,http://www.tribal-celtic-tattoo.com
+1050,shamrock tattoos,2006-04-06 23:23:18,3,http://tattoo.about.com
+1050,shamrock tattoos,2006-04-06 23:23:18,3,http://tattoo.about.com
+1050,shamrock tattoos,2006-04-06 23:23:18,1,http://www.tribal-celtic-tattoo.com
+1050,shamrock tattoos,2006-04-06 23:29:01,4,http://www.eviltattoo.com
+1050,shamrock tattoos,2006-04-06 23:29:01,6,http://www.rankmytattoos.com
+1050,shamrock tattoos,2006-04-06 23:29:01,5,http://www.etattoos.net
+1050,rtunes,2006-04-08 01:21:44,9,http://www.softwaresamurai.com
+1050,rtunes,2006-04-08 01:21:44,4,http://undeadly.org
+1050,rtunes,2006-04-08 01:21:44,9,http://www.softwaresamurai.com
+1050,image shack,2006-04-08 01:35:46,4,http://www.imageshack.co.uk
+1050,rtunes,2006-04-08 01:40:02,3,http://undeadly.org
+1050,rtunes,2006-04-08 01:40:02,9,http://www.softwaresamurai.com
+1050,rtunes,2006-04-08 01:40:02,9,http://www.softwaresamurai.com
+1050,ohio state posters,2006-04-08 14:10:47,1,http://www.collegegear.com
+1050,ohio state posters,2006-04-08 14:10:47,2,http://www.art.com
+1050,cleveland brown's posters,2006-04-08 14:14:23,1,http://www.skylinepictures.com
+1050,cleveland brown's posters,2006-04-08 14:14:23,6,http://www.clevelandskyline.com
+1050,dorm rooms,2006-04-08 14:18:28,1,http://interiordec.about.com
+1050,dorm rooms,2006-04-08 14:18:28,2,http://interiordec.about.com
+1050,dorm rooms,2006-04-08 14:18:28,6,http://www.collegeboard.com
+1050,dorm rooms,2006-04-08 14:18:28,9,http://www.ecampustours.com
+1050,young dro shoulder lean,2006-04-18 01:07:36,2,http://www.wordofsouth.com
+1050,young dro.com,2006-04-18 01:10:46,5,http://www.tms.org
+1050,young dro,2006-04-18 01:12:03,3,http://www.last.fm
+1050,young dro,2006-04-18 01:12:03,9,http://www.lyricsandsongs.com
+1050,starmagazine.comhttp,2006-04-23 12:45:29,1,http://www.starmagazine.com
+1050,facebook.bom,2006-04-23 21:21:25,1,http://www.facebook.com
+2106,msn,2006-03-09 18:27:58,1,http://www.msn.com
+2327,florida lottery results,2006-03-01 13:07:34,1,http://www.flalottery.com
+2327,florida lottery results,2006-03-02 07:44:28,1,http://www.flalottery.com
+2327,florida lottery results,2006-03-02 07:44:28,2,http://www.sun-sentinel.com
+2327,florida lottery results,2006-03-02 09:05:36,1,http://www.flalottery.com
+2327,florida lottery results,2006-03-02 09:26:00,1,http://www.flalottery.com
+2327,florida lottery results,2006-03-02 09:26:00,1,http://www.flalottery.com
+2327,florida lottery results,2006-03-02 09:26:00,1,http://www.flalottery.com
+2327,florida lottery results,2006-03-02 09:26:00,1,http://www.flalottery.com
+2327,florida lottery results,2006-03-04 08:18:45,1,http://www.flalottery.com
+2327,florida lottery results,2006-03-05 08:19:07,1,http://www.flalottery.com
+2327,florida lottery results,2006-03-05 08:19:07,2,http://www.sun-sentinel.com
+2327,florida lottery results,2006-03-05 08:19:07,3,http://www.flottery.com
+2327,florida lottery results,2006-03-05 08:19:07,1,http://www.flalottery.com
+2327,florida lottery results,2006-03-05 10:58:01,1,http://www.flalottery.com
+2327,florida lottery results,2006-03-05 14:19:58,1,http://www.flalottery.com
+2327,florida lottery results,2006-03-08 18:09:36,1,http://www.flalottery.com
+2327,florida lottery results,2006-03-09 08:43:39,1,http://www.flalottery.com
+2327,florida lottery results,2006-03-11 08:18:24,1,http://www.flalottery.com
+2327,florida lottery results,2006-03-12 08:49:27,1,http://www.flalottery.com
+2327,florida lottery results,2006-03-13 09:02:52,1,http://www.flalottery.com
